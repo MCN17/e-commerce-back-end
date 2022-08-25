@@ -4,6 +4,7 @@
 This application is the back end of an e-commerce site. It uses sequelize to interact with a MySQL database. This app is perfect for a mananger of a retail company that needs to create, update, and delete data in their database.
 
 ## Demo
+https://drive.google.com/file/d/1xVRyGhGYKPdMGefwp_Hc09BxGPy97K6-/view
 
 ## Built With
 * JavaScript
@@ -16,7 +17,7 @@ This application is the back end of an e-commerce site. It uses sequelize to int
 To build the back end of this application the installation of Express.js, mySQL, sequelize, and dotenv is required. Typing "npm install express sequelize mysql2 dotenv" into the command line will install Express.js, Sequelize, MySQL, and dotenv.
 
 ## Usage
-To run this application all you have to do is type "node server" or "npm start" into the command line. To seed the data
+To run this application all you have to do is type "node server" or "npm start" into the command line.
 
 ## Credits
 This application was built by Marty Nolan.
