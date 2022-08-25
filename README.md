@@ -4,7 +4,7 @@
 This application is the back end of an e-commerce site. It uses sequelize to interact with a MySQL database. This app is perfect for a mananger of a retail company that needs to create, update, and delete data in their database.
 
 ## Demo
-https://drive.google.com/file/d/1xVRyGhGYKPdMGefwp_Hc09BxGPy97K6-/view
+https://drive.google.com/file/d/1xVRyGhGYKPdMGefwp_Hc09BxGPy97K6-/view?usp=sharing
 
 ## Built With
 * JavaScript
